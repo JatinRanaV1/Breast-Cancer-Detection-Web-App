@@ -23,3 +23,5 @@ Using SVM (Support Vector Machines) and Random Forest (RF) Classifier I built an
 ### 4.Flask Creation
 Python app.py
 ### 5. Deployment on Heroku
+
+## Input :
