@@ -25,5 +25,5 @@ Python app.py
 
 ## Input :
 ![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/input.JPG)
-## Output:
+## Output :
 ![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/output.JPG)
