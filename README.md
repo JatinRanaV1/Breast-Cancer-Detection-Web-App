@@ -1,6 +1,5 @@
 # Breast-Cancer-Detection-Web-App
 ### 1. Project Requirements or Dependencies
-* Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
 
 ### 2. Load Dataset
