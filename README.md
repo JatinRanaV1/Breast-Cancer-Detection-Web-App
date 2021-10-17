@@ -23,7 +23,4 @@ Using SVM (Support Vector Machines) and Random Forest (RF) Classifier I built an
 Python app.py
 ### 5. Deployment on Heroku
 
-## Input :
-![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/input.JPG)
-## Output :
-![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/output.JPG)
+
