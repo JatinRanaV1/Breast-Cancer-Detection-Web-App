@@ -24,6 +24,6 @@ Python app.py
 ### 5. Deployment on Heroku
 
 ## Input :
-![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/input.JPG)
+![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-b-App/blob/main/input.JPG)
 ## Output :
-![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Web-App/blob/main/output.JPG)
+![Alt text](https://github.com/JatinRanaV1/Breast-Cancer-Detection-Wep/blob/main/output.JPG)
