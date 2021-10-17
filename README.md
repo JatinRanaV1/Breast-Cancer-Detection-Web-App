@@ -1,5 +1,5 @@
 # Breast-Cancer-Detection-Web-App
-### 1.Project Requirements or Dependencies
+### 1. Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
 
@@ -19,7 +19,7 @@ Attribute Information:
 10.	Mitoses:1-10
 11.	Class: (2 for Benign, 4 for Malignant)
 ### 3.Build and Train the model using SVM
-Using SVM (Support Vector Machines) and Random Forest (RF) Classifier I built and train a model using human cell records, and classify cells to predict whether the samples are benign or malignant.
+Using SVM (Support Vector Machines) and Random Forest (RF) Classifier I built and train a model using human cell records, and classify cells to predict whether the patient has breast cancer or not.
 ### 4.Flask Creation
 Python app.py
 ### 5. Deployment on Heroku
